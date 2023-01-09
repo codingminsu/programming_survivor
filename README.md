@@ -1,4 +1,4 @@
-# programming_survivor 
+# programming survivor 
 ![image](https://user-images.githubusercontent.com/105265427/211352938-1bfa9b93-8064-496e-ac3f-fd583ceb973a.png)
 
 뱀파이어 서바이벌을 모티브로 한 자바 게임 제작
